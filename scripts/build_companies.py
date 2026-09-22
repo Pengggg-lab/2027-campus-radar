@@ -80,6 +80,7 @@ def build(source: Path, output: Path, previous: Path | None = None, overrides: P
                 "lastChecked": old.get("lastChecked"),
                 "checkError": old.get("checkError"),
                 "previousStatus": old.get("previousStatus"),
+                "stale": bool(old.get("stale", False)),
             }
             companies.append(item)
 

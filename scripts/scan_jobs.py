@@ -375,6 +375,7 @@ async def scan(args: argparse.Namespace) -> dict[str, Any]:
                 "checkSource": result.get("checkSource"),
                 "httpStatus": result.get("httpStatus"),
                 "previousStatus": None,
+                "stale": False,
             })
         else:
             if args.keep_stronger:
@@ -383,15 +384,29 @@ async def scan(args: argparse.Namespace) -> dict[str, Any]:
                 continue
             check_error = result.get("error") or "访问失败"
             previous = item.get("status")
-            item.update({
-                "status": "error",
-                "statusLabel": STATUS_LABELS["error"],
-                "todayUpdate": False,
-                "lastChecked": checked_at,
-                "checkError": check_error,
-                "previousStatus": previous if previous not in {"not_checked", "error"} else None,
-                "finalUrl": http_result.get("finalUrl") or item.get("finalUrl"),
-            })
+            if previous in {"today", "released", "possible", "not_found"}:
+                effective_previous = "released" if previous == "today" else previous
+                item.update({
+                    "status": effective_previous,
+                    "statusLabel": f"{STATUS_LABELS[effective_previous]}（今日未验证）",
+                    "todayUpdate": False,
+                    "lastChecked": checked_at,
+                    "checkError": check_error,
+                    "previousStatus": previous,
+                    "stale": True,
+                    "finalUrl": item.get("finalUrl") or http_result.get("finalUrl"),
+                })
+            else:
+                item.update({
+                    "status": "error",
+                    "statusLabel": STATUS_LABELS["error"],
+                    "todayUpdate": False,
+                    "lastChecked": checked_at,
+                    "checkError": check_error,
+                    "previousStatus": None,
+                    "stale": False,
+                    "finalUrl": http_result.get("finalUrl") or item.get("finalUrl"),
+                })
         print(f"[{index + 1}/{len(companies)}] {item['name']}: {item['status']} {check_error or ''}", flush=True)
 
     if args.limit or args.only or args.statuses:

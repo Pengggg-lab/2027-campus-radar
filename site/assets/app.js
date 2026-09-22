@@ -119,13 +119,14 @@ function renderCard(item) {
   head.append(titleWrap, createElement("span", `status-badge ${item.status}`, item.statusLabel || statusNames[item.status]));
 
   const evidence = createElement("p", "evidence");
-  evidence.textContent = item.checkError
+  evidence.textContent = item.checkError && item.status === "error"
     ? `本次检查：${item.checkError}`
     : item.evidence || "本次扫描未提取到可读的招聘宣传文案，请点击官网进一步确认。";
 
   const checkMeta = createElement("div", "check-meta");
   if (item.evidenceDate) checkMeta.append(createElement("span", "", `页面日期 ${formatDate(item.evidenceDate)}`));
   checkMeta.append(createElement("span", "", `检查于 ${formatUpdate(item.lastChecked)}`));
+  if (item.stale) checkMeta.append(createElement("span", "", "今日未验证，保留上次结果"));
   if (item.subsidiaryHint) checkMeta.append(createElement("span", "", "页面含总部/子公司招聘信息"));
   if (item.previousStatus && item.previousStatus !== item.status) {
     checkMeta.append(createElement("span", "", `上次状态：${statusNames[item.previousStatus] || item.previousStatus}`));
