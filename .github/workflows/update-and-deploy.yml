@@ -1,0 +1,72 @@
+name: 更新招聘数据并发布网页
+
+on:
+  schedule:
+    # GitHub Actions 使用 UTC；06:00 UTC = 北京时间 14:00。
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: campus-radar-pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: 从 Excel 重建企业名单
+        run: python scripts/build_companies.py --source data/source.xlsx --output site/data/companies.json --previous site/data/companies.json
+
+      - name: 扫描招聘门户
+        run: python scripts/scan_jobs.py --input site/data/companies.json --output site/data/companies.json --browser auto --concurrency 8
+
+      - name: 复核企业官网总部公告
+        run: python scripts/scan_jobs.py --input site/data/companies.json --output site/data/companies.json --browser auto --url-field official --statuses possible not_found error not_checked --keep-stronger --concurrency 8
+
+      - name: 保存当天数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/companies.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update campus recruitment data $(date -u +%F)"
+            git push
+          fi
+
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 打包静态网页
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

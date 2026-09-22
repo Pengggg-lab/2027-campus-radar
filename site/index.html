@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#123c36">
+  <meta name="description" content="2027届央企及川渝黔国企校园招聘信息雷达">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/radar.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+  <title>2027届秋招雷达</title>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="返回首页">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span><strong>秋招雷达</strong><small>2027届</small></span>
+    </a>
+    <a class="top-link" href="#method">判定说明</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">央企 · 四川 · 重庆 · 贵州</p>
+        <h1>不错过一场<br><span>2027届校招</span></h1>
+        <p class="hero-note">汇总 192 家企业的官网与招聘入口，按官方页面证据更新状态。每天北京时间 14:00 自动扫描。</p>
+      </div>
+      <div class="update-orb" aria-label="最后更新时间">
+        <span>最后扫描</span>
+        <strong id="updated-time">读取中</strong>
+        <small>数据有延迟时以官网为准</small>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="招聘状态统计">
+      <button class="stat-card stat-released" data-status-filter="released">
+        <span>已发现 2027 校招</span><strong id="count-released">0</strong><small>含今日更新</small>
+      </button>
+      <button class="stat-card stat-today" data-status-filter="today">
+        <span>今日更新</span><strong id="count-today">0</strong><small>官方页面出现当天日期</small>
+      </button>
+      <button class="stat-card stat-possible" data-status-filter="possible">
+        <span>年份待核实</span><strong id="count-possible">0</strong><small>找到校招入口</small>
+      </button>
+      <button class="stat-card stat-not-found" data-status-filter="not_found">
+        <span>暂未发现</span><strong id="count-not-found">0</strong><small>不代表确定未出</small>
+      </button>
+      <button class="stat-card stat-error" data-status-filter="error">
+        <span>访问异常</span><strong id="count-error">0</strong><small>需要人工复核</small>
+      </button>
+    </section>
+
+    <section class="controls" aria-label="筛选企业">
+      <div class="search-wrap">
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" placeholder="搜索企业、地区或招聘信息" autocomplete="off">
+        <button id="clear-search" type="button" aria-label="清除搜索">×</button>
+      </div>
+      <div class="filter-row" role="group" aria-label="按地区筛选">
+        <button class="filter-chip is-active" data-region="全部">全部</button>
+        <button class="filter-chip" data-region="全国">央企</button>
+        <button class="filter-chip" data-region="四川">四川</button>
+        <button class="filter-chip" data-region="重庆">重庆</button>
+        <button class="filter-chip" data-region="贵州">贵州</button>
+      </div>
+      <div class="active-filter" id="active-filter" hidden>
+        <span id="active-filter-text"></span>
+        <button id="reset-filter" type="button">清除筛选</button>
+      </div>
+    </section>
+
+    <section class="results">
+      <div class="results-head">
+        <h2>企业动态</h2>
+        <p><strong id="result-count">0</strong> 家 · 按状态与更新时间排序</p>
+      </div>
+      <div id="company-list" class="company-list" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <strong>没有匹配的企业</strong>
+        <p>换一个关键词或清除筛选后再试。</p>
+        <button id="empty-reset" type="button">查看全部</button>
+      </div>
+    </section>
+
+    <section class="method" id="method">
+      <h2>怎么判断“已出”和“未出”</h2>
+      <div class="method-grid">
+        <article><span class="status-dot released"></span><h3>已发现 2027 校招</h3><p>招聘官网、网申页或公告中同时出现“2027届/2027年度”和“校园招聘/校招/网申”等证据。</p></article>
+        <article><span class="status-dot today"></span><h3>今日更新</h3><p>页面中出现当天日期，且日期附近包含校招关键词。当天有投递截止、宣讲会或新公告时也可能触发。</p></article>
+        <article><span class="status-dot possible"></span><h3>年份待核实</h3><p>找到校招入口，但页面没有明确写出 2027 届。动态系统加载不完整时会出现，建议点进官网确认。</p></article>
+        <article><span class="status-dot not-found"></span><h3>暂未发现</h3><p>本次扫描没有找到 2027 校招文字证据，不代表企业确定尚未发布，也不代表没有子公司单独招聘。</p></article>
+        <article><span class="status-dot error"></span><h3>访问异常</h3><p>官网限制、超时或证书问题导致本次无法核验。卡片会保留上次状态提示，需点官网人工确认。</p></article>
+      </div>
+      <p class="privacy-note">公开页面不展示个人投递状态。网页为公开信息索引，不替代企业官方公告。</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>2027届央企及川渝黔国企秋招雷达</p>
+    <p>官网数据受动态加载、地区网络和企业发布节奏影响，最终以企业官方信息为准。</p>
+  </footer>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "2027届秋招雷达",
+  "short_name": "秋招雷达",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#123c36",
+  "icons": [
+    {"src": "assets/radar.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
