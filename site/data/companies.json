@@ -2,10 +2,10 @@
   "meta": {
     "title": "2027届秋招雷达",
     "targetYear": 2027,
-    "generatedAt": "2026-10-09T06:10:24.875491+00:00",
+    "generatedAt": "2026-10-10T06:08:26.847915+00:00",
     "companyCount": 192,
     "source": "source.xlsx",
-    "scannedAt": "2026-10-09T14:21:41+08:00",
+    "scannedAt": "2026-10-10T14:20:51+08:00",
     "stats": {
       "today": 1,
       "released": 31,
@@ -14,7 +14,7 @@
       "error": 2,
       "not_checked": 0
     },
-    "browserChecks": 52
+    "browserChecks": 58
   },
   "companies": [
     {
@@ -35,7 +35,7 @@
       "finalUrl": "https://www.cnnc.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://hr.cnnc.com.cn/xiaoyuan: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hr.cnnc.com.cn/xiaoyuan\nCall log:\n  - navigating to; http://www.cnnc.com.cn/: Error: Page.goto: Navigation to \"http://www.cnnc.com.cn/\" is interrupted by another navigation to \"chrome-e",
       "previousStatus": "not_found",
       "stale": true
@@ -49,57 +49,16 @@
       "sourceRow": 4,
       "officialUrl": "http://www.cmhk.com/",
       "campusUrl": "https://cmhk.zhiye.com/custom/xy?hideAll=true",
-      "status": "released",
-      "statusLabel": "已发现 2027 校招",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "宁波市 丹东市 盘锦市 葫芦岛市 芜湖市 宜昌市 桂林市 朝阳区 舟山市 榆林市 浦东新区 南通市 杭州市 福州市 厦门市 驻马店市 黄冈市 广州市 汕头市 湛江市 玉林市 遂宁市 文山壮族苗族自治州 其他 几内亚 利比里亚 展开 招商轮船2027届“海辽菁英”管理培训生(J33690) 成员公司：招商轮船 工作地点：香港特别行政区,广东省·深圳市,上海市 发布时间：2026-09-14 立即投递 北京先驱-数字海洋部科研岗(J33568) 成员公司：招商创科 工作地点：北京市·朝阳区 发布时间：2026-09-08 立即投递 北京先驱-技术装备部科研岗(J33567) 成员公司：招商创科 工作地点：北",
-      "evidenceDate": "2026-09-14",
+      "evidence": "招商局集团招聘官网",
+      "evidenceDate": null,
       "pageTitle": "招商局集团招聘官网",
       "finalUrl": "https://cmhk.zhiye.com/custom/xy?hideAll=true",
-      "relatedLinks": [
-        {
-          "label": "校园招聘",
-          "url": "https://cmhk.zhiye.com/custom/xiaoyuan?hideAll=true"
-        },
-        {
-          "label": "校招投递",
-          "url": "https://cmhk.zhiye.com/custom/xy?hideAll=true"
-        },
-        {
-          "label": "中国南山",
-          "url": "https://cndi.zhiye.com/campus/jobs"
-        },
-        {
-          "label": "招商船舶",
-          "url": "https://cmi.zhiye.com/campus/jobs"
-        },
-        {
-          "label": "招商证券",
-          "url": "https://wecruit.hotjob.cn/SU629dbc0c0dcad452299bc0f7/pb/index.html#/"
-        },
-        {
-          "label": "博时基金",
-          "url": "https://bosera.hotjob.cn/"
-        },
-        {
-          "label": "中外运长航",
-          "url": "https://sinotrans-csc.zhiye.com/custom/campus?hideMenu=1"
-        },
-        {
-          "label": "招商轮船2027届“海辽菁英”管理培训生(J33690)",
-          "url": "https://cmhk.zhiye.com/custom/xq?hideAll=true&jc=2&ClassificationTwo=招商轮船&jobAdId=be1fa275-4b60-48f4-9529-9f7609b74012"
-        },
-        {
-          "label": "北京先驱-数字海洋部科研岗(J33568)",
-          "url": "https://cmhk.zhiye.com/custom/xq?hideAll=true&jc=2&ClassificationTwo=招商创科&jobAdId=aed08737-5cb4-4655-80f1-bf77e081ac26"
-        },
-        {
-          "label": "北京先驱-技术装备部科研岗(J33567)",
-          "url": "https://cmhk.zhiye.com/custom/xq?hideAll=true&jc=2&ClassificationTwo=招商创科&jobAdId=e9179905-0dd1-4d77-933d-143fb4a37e44"
-        }
-      ],
-      "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "relatedLinks": [],
+      "subsidiaryHint": false,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -124,7 +83,7 @@
       "finalUrl": "https://www.spacetalent.com.cn/zhiweicx.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -149,7 +108,7 @@
       "finalUrl": "http://www.crc.com.hk/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -207,7 +166,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -241,7 +200,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -271,7 +230,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": "https://www.avic.com/cms/ui/catalog/16099/pc/index_4.shtml?PC=PC: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.avic.com/cms/ui/catalo; http://www.avic.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.avic.com.cn/\", waiting ",
       "previousStatus": "released",
       "stale": true
@@ -299,7 +258,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -333,7 +292,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -354,15 +313,15 @@
       "todayUpdate": false,
       "evidence": "中国兵器工业招聘网",
       "evidenceDate": null,
-      "pageTitle": "",
+      "pageTitle": "中国兵器工业招聘网",
       "finalUrl": "https://norincogroupzhaopin.zhiye.com/campus/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "官网直连",
+      "checkSource": "浏览器渲染",
       "httpStatus": 200
     },
     {
@@ -383,7 +342,7 @@
       "finalUrl": "https://hcmcloud.ciecc.com.cn/recruit/#/portal_job_list?job_class=_HB4_Y2FtcHVz&filter_dict=_HB4_eyJzZWxlY3RfZGVwYXJ0IjpudWxsfQ%253D%253D",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -399,16 +358,16 @@
       "sourceRow": 14,
       "officialUrl": "https://www.csgc.com.cn/",
       "campusUrl": "https://norincogroupzhaopin.zhiye.com/campus/jobs",
-      "status": "released",
-      "statusLabel": "已发现 2027 校招",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "，包括但不限于图像分割、目标识别、目标匹配、目标跟踪、特征提取； 5.熟练使用 CAD、UG 等制图软件、Matlab、Python 等相关设计软件、办公软件；练运用相关测试设备、测试软件。 立即投递 收藏 查看详情 控制工程师-北机机电-27届 全职 北京市·通州区 硕士及以上 北京北机机电工业有限责任公司 工作职责 1.熟练掌握基础理论知识，包括但不限于自动控制、人工智能，电路设计及布板，电路调试及仿真，常用电路设计软件，能够完成控制系统总体设计和功能分解。 2.熟练使用常见电子电路仪器设备等。 3.负责担任项目组电气工程师. 任职资格 统招硕士研究生及以上学历 立即投递 收藏 查看详情 制导弹",
+      "evidence": "中国兵器工业招聘网",
       "evidenceDate": null,
       "pageTitle": "中国兵器工业招聘网",
       "finalUrl": "https://norincogroupzhaopin.zhiye.com/campus/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -442,7 +401,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -488,7 +447,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -518,7 +477,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -552,7 +511,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -594,7 +553,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -644,7 +603,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -663,26 +622,22 @@
       "status": "possible",
       "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "首页 校园招聘 社会招聘",
-      "evidenceDate": "2026-09-22",
-      "pageTitle": "中国机械总院",
-      "finalUrl": "https://camzhaopin.zhiye.com/custom/campus?hideMenu=1",
+      "evidence": "更多 中国机械科学研究总院集团有限公司2026年高校毕业生接收公示 2026-09-15",
+      "evidenceDate": "2026-10-01",
+      "pageTitle": "",
+      "finalUrl": "https://www.cam.com.cn/",
       "relatedLinks": [
         {
-          "label": "校园招聘",
-          "url": "https://camzhaopin.zhiye.com/custom/campus?hideMenu=1"
-        },
-        {
-          "label": "登录",
-          "url": "https://camzhaopin.zhiye.com/login?goto=custom%2Fcampus%3FhideMenu%3D1"
+          "label": "中国机械科学研究总院集团有限公司2026年高校毕业生接收公示 2026-09-15",
+          "url": "https://www.cam.com.cn/contents/649/19321.html"
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "浏览器渲染",
+      "checkSource": "官网直连",
       "httpStatus": 200
     },
     {
@@ -703,7 +658,7 @@
       "finalUrl": "https://zhaopin.cnpc.com.cn/web/index.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -719,25 +674,16 @@
       "sourceRow": 23,
       "officialUrl": "http://www.cisri.com.cn/",
       "campusUrl": "https://gangyan.zhiye.com/custom/campus?hideAll=true",
-      "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "招聘公告 校园招聘 社会招聘",
+      "evidence": "中国钢研科技集团有限公司",
       "evidenceDate": null,
       "pageTitle": "中国钢研科技集团有限公司",
       "finalUrl": "https://gangyan.zhiye.com/custom/campus?hideAll=true",
-      "relatedLinks": [
-        {
-          "label": "校园招聘",
-          "url": "https://gangyan.zhiye.com/custom/campus?hideAll=true"
-        },
-        {
-          "label": "登录",
-          "url": "https://gangyan.zhiye.com/login?goto=custom%2Fcampus%3FhideAll%3Dtrue"
-        }
-      ],
+      "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -756,13 +702,13 @@
       "status": "released",
       "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "中国石化招聘网站 ··· 校招首页 ··· 集团公告 ··· 企业公告 ··· 招聘信息 ··· 常见问题 ··· 企业介绍 ··· 登录 注册 —2027年度校园招聘— 集团公告 中国石化2027年度毕业生招聘公告 2026-09-24 中国石化2027年度毕业生招聘统一初选考试公告 2026-09-24 声明 2026-09-24 统一初选考试常见问题回答 2026-09-24 招聘岗位 油田企业 炼化企业 成品油销售企业 设计施工单位 科研单位 专业公司 中航油 “优培计划” 完井工程技术岗 硕士研究生 2人",
+      "evidence": "中国石化招聘网站 ··· 校招首页 ··· 集团公告 ··· 企业公告 ··· 招聘信息 ··· 常见问题 ··· 企业介绍 ··· 登录 注册 —2027年度校园招聘— 集团公告 中国石化2027年度毕业生招聘公告 2026-09-24 中国石化2027年度毕业生招聘统一初选考试公告 2026-09-24 声明 2026-09-24 统一初选考试常见问题回答 2026-09-24 招聘岗位 油田企业 炼化企业 成品油销售企业 设计施工单位 科研单位 专业公司 中航油 “优培计划” 石油工程管理岗 硕士研究生 5人",
       "evidenceDate": "2026-09-24",
       "pageTitle": "中国石化招聘网站",
       "finalUrl": "https://job.sinopec.com/#/school/index",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -792,7 +738,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -811,7 +757,7 @@
       "status": "released",
       "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "中国海洋石油集团有限公司2027届校园招聘 中海石油（中国）有限公司天津分公司 中海石油（中国）有限公司深圳分公司 中海石油（中国）有限公司湛江分公司 中海石油（中国）有限公司海南分公司 中海石油（中国）有限公司上海分公司 中国海洋石油国际有限公司 中海油研究总院有限责任公司 中联煤层气有限责任公司 中海石油（中国）有限公司北京新能源分公司 中海石油气电集团有限责任公司 中海石油炼化有限责任",
+      "evidence": "中国海洋石油集团有限公司2027届校园招聘 中海石油（中国）有限公司天津分公司 中海石油（中国）有限公司深圳分公司 中海石油（中国）有限公司湛江分公司 中海石油（中国）有限公司海南分公司 中海石油（中国）有限公司上海分公司 中国海洋石油国际有限公司 中海油研究总院有限责任公司 中联煤层气有限责任公司 中海石油气电集团有限责任公司 中海石油炼化有限责任公司 中海石油化学股份有限公司 中海油田服",
       "evidenceDate": null,
       "pageTitle": "中国海洋石油集团有限公司2027届校园招聘",
       "finalUrl": "https://cnooc.zhaopin.com/job/index.html",
@@ -858,7 +804,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -883,7 +829,7 @@
       "finalUrl": "http://www.chinasalt.com.cn/xwzx/zytz/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "http://www.chinasalt.com.cn/xwzx/zytz/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.chinasalt.com.cn/xwzx/z; http://www.chinasalt.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.chinasalt.com.cn/\", wai",
       "previousStatus": "not_found",
       "stale": true
@@ -898,7 +844,7 @@
       "officialUrl": "http://www.pipechina.com.cn/",
       "campusUrl": "https://zhaopin.pipechina.com.cn/recruit#/portal_job_list?job_class=_HB4_Y2FtcHVz",
       "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招（今日未验证）",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
       "evidence": "国家管网招聘系统",
       "evidenceDate": null,
@@ -906,10 +852,12 @@
       "finalUrl": "https://zhaopin.pipechina.com.cn/recruit#/portal_job_list?job_class=_HB4_Y2FtcHVz",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
-      "checkError": "https://zhaopin.pipechina.com.cn/recruit#/portal_job_list?job_class=_HB4_Y2FtcHVz: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://zhaopin.pipechina.com.cn/r; http://www.pipechina.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.pipechina.com.cn/\", wai",
-      "previousStatus": "not_found",
-      "stale": true
+      "lastChecked": "2026-10-10T14:20:51+08:00",
+      "checkError": null,
+      "previousStatus": null,
+      "stale": false,
+      "checkSource": "官网直连",
+      "httpStatus": 200
     },
     {
       "id": "c0027",
@@ -929,7 +877,7 @@
       "finalUrl": "https://zhaopin.cnbm.com.cn/#/schoolRecruitment/view/list",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -954,7 +902,7 @@
       "finalUrl": "https://zhaopin.sgcc.com.cn/sgcchr/static/home.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -995,6 +943,14 @@
           "url": "https://www.iguopin.com/login?redirect=https%3A%2F%2Fwww.iguopin.com%2Fcompany%2Fsub%2Fjobs%3Fid%3D10685312843958903"
         },
         {
+          "label": "主任工程师/专业技术工程师（电解铝）(J10098) 「北京等」 中国有色金属建设股份有限公司 社招 10-15年 本科 招2人 冶金工程师 面议",
+          "url": "https://www.iguopin.com/job/detail?id=221823314455168506"
+        },
+        {
+          "label": "综合部主管 「赞比亚」 中国有色集团沈阳矿业投资有限公司 社招 经验不限 本科 计算机类等 招1人 不限职位 37.5K",
+          "url": "https://www.iguopin.com/job/detail?id=221819616287000054"
+        },
+        {
           "label": "法律风控部-合规管理岗 「北京-朝阳区」 中色国际贸易有限公司 社招 5-10年 硕士 法学全类等 招1人 企业律师/合规顾问 合规调查 合同法 ··· 面议",
           "url": "https://www.iguopin.com/job/detail?id=221797078261564923"
         },
@@ -1009,18 +965,10 @@
         {
           "label": "法语翻译(J10110) 「刚果(金)」 中国有色金属建设股份有限公司 社招 1-5年 本科 招若干人 法语翻译 面议",
           "url": "https://www.iguopin.com/job/detail?id=161787252039486088"
-        },
-        {
-          "label": "英语翻译(J10013) 「海外-亚洲」 中国有色金属建设股份有限公司 社招 1-5年 本科 招2人 英语翻译 面议",
-          "url": "https://www.iguopin.com/job/detail?id=147198182911115753"
-        },
-        {
-          "label": "俄语翻译(J10014) 「海外-亚洲」 中国有色金属建设股份有限公司 社招 1-3年 本科 招4人 俄语翻译 面议",
-          "url": "https://www.iguopin.com/job/detail?id=147198076325462510"
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1036,20 +984,20 @@
       "sourceRow": 32,
       "officialUrl": "http://www.csg.cn/",
       "campusUrl": "https://zhaopin.csg.cn/#/recruitment-campus",
-      "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "校园招聘 - 中国南方电网 招聘网站",
-      "evidenceDate": "2026-03-13",
-      "pageTitle": "校园招聘 - 中国南方电网",
+      "evidence": "中国南方电网 万家灯火，追梦有我",
+      "evidenceDate": null,
+      "pageTitle": "",
       "finalUrl": "https://zhaopin.csg.cn/#/recruitment-campus",
       "relatedLinks": [],
-      "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "subsidiaryHint": false,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "浏览器渲染",
+      "checkSource": "官网直连",
       "httpStatus": 200
     },
     {
@@ -1075,7 +1023,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1100,7 +1048,7 @@
       "finalUrl": "https://zhaopin.chng.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1125,7 +1073,7 @@
       "finalUrl": "https://zgzh.iguopin.com/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1144,13 +1092,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "大唐环境 Produced By CMS 网站群内容管理系统 publishdate:2026-10-09 12:51:12",
-      "evidenceDate": "2026-10-09",
+      "evidence": "大唐环境 Produced By CMS 网站群内容管理系统 publishdate:2026-10-10 12:51:12",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.china-cdt.com/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1170,7 +1118,7 @@
       "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
       "evidence": "招聘门户 中国有研科技集团有限公司2024年应届毕业生招聘公告 有研科技集团有限公司2023年应届毕业生招聘公告",
-      "evidenceDate": "2026-10-09",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.grinm.com/",
       "relatedLinks": [
@@ -1212,7 +1160,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1242,7 +1190,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1267,7 +1215,7 @@
       "finalUrl": "https://hr.bgrimm.cn:10106/recruit#/portal_job_list?job_class=_HA5_vGGnFMhvX22YfeOAr!OJgg%3D%3D",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1297,7 +1245,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1327,7 +1275,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1346,17 +1294,17 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "投递已结束",
+      "evidence": "投递已结束 查看更多职位 当前批次招聘已结束 推荐信息",
       "evidenceDate": null,
-      "pageTitle": "",
+      "pageTitle": "投递已结束",
       "finalUrl": "https://campus.chinahr.com/pages/sanxia/#/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "官网直连",
+      "checkSource": "浏览器渲染",
       "httpStatus": 200
     },
     {
@@ -1382,7 +1330,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1407,7 +1355,7 @@
       "finalUrl": "https://crrc.hotjob.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1437,7 +1385,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1462,7 +1410,7 @@
       "finalUrl": "https://job.chinatelecom.com.cn/wt/TELE/web/index#/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1496,7 +1444,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1534,7 +1482,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1568,7 +1516,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1598,7 +1546,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1623,7 +1571,7 @@
       "finalUrl": "https://www.crcc.cn/col/col214/index.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1648,7 +1596,7 @@
       "finalUrl": "https://zhaopin.ccccltd.cn/custom/fxzzw",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1673,7 +1621,7 @@
       "finalUrl": "https://campus.cec.com.cn/position?positionType=0",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1715,7 +1663,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1734,8 +1682,8 @@
       "status": "released",
       "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "南市 柳州市 无锡市 搜索 全部 一汽红旗 一汽红旗(研发总院) 一汽解放 一汽奔腾 一汽-大众 一汽丰田 一汽资本控股 财务公司 一汽股权 一汽出行 一汽模具 一汽富华 一汽铸锻 中汽新能 启明信息 能源公司 旗新动力 职能岗（电子类）【2027校园招聘】 一汽出行 生态出行运营 长春市 发布时间：2026-09-28 16:44:59 招聘人数：若干 经营管理-数据科学工程师-AI【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-23 19:36:05 招聘人数：若干 智能应用-数据科学工程师-算法【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-22",
-      "evidenceDate": "2026-09-28",
+      "evidence": "连市 德阳市 济南市 柳州市 无锡市 搜索 全部 一汽红旗 一汽红旗(研发总院) 一汽解放 一汽奔腾 一汽-大众 一汽丰田 一汽资本控股 财务公司 一汽股权 一汽出行 一汽模具 一汽富华 一汽铸锻 中汽新能 启明信息 能源公司 旗新动力 【2027校招】天津发动机-法务专员 一汽丰田 审计法务 天津市-滨海新区 发布时间：2026-10-10 14:09:19 招聘人数：若干 【2027校招】成都工厂-冲压工艺技术员 一汽丰田 制造技术 成都市-龙泉驿区 发布时间：2026-10-10 14:05:34 招聘人数：若干 通信、诊断中间件开发工程师（AP方向） 一汽红旗(研发总院) 智能网联开发 长春市 发",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "中国一汽招聘",
       "finalUrl": "https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=204801",
       "relatedLinks": [
@@ -1756,32 +1704,32 @@
           "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/logAndReg.html?modalType=0"
         },
         {
+          "label": "【2027校招】天津发动机-法务专员 一汽丰田 审计法务 天津市-滨海新区 发布时间：2026-10-10 14:09:19 招聘人数：若干",
+          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ac9d699f0cfabf2b4e9221f&postType=campus"
+        },
+        {
+          "label": "【2027校招】成都工厂-冲压工艺技术员 一汽丰田 制造技术 成都市-龙泉驿区 发布时间：2026-10-10 14:05:34 招聘人数：若干",
+          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ac9d5b915a82a89c31acf10&postType=campus"
+        },
+        {
+          "label": "通信、诊断中间件开发工程师（AP方向） 一汽红旗(研发总院) 智能网联开发 长春市 发布时间：2026-10-10 13:48:41 招聘人数：若干",
+          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ac9d1c2b6fae46f677c1de6&postType=campus"
+        },
+        {
+          "label": "基础软件测试工程师 一汽红旗(研发总院) 智能网联开发 长春市 发布时间：2026-10-10 13:46:45 招聘人数：若干",
+          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ac9d14af0cfabf2b4e918da&postType=campus"
+        },
+        {
           "label": "职能岗（电子类）【2027校园招聘】 一汽出行 生态出行运营 长春市 发布时间：2026-09-28 16:44:59 招聘人数：若干",
           "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6aba290ffea5e04bda7ed99d&postType=campus"
         },
         {
           "label": "经营管理-数据科学工程师-AI【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-23 19:36:05 招聘人数：若干",
           "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ab3b9a9fea5e04bda78704a&postType=campus"
-        },
-        {
-          "label": "智能应用-数据科学工程师-算法【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-22 17:25:13 招聘人数：若干",
-          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ab2497cfea5e04bda765a2e&postType=campus"
-        },
-        {
-          "label": "结构设计工程师 中汽新能 新能源开发 天津市 发布时间：2026-09-21 15:21:01 招聘人数：若干",
-          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6ab223e3f0cfabf2b4d158fa&postType=campus"
-        },
-        {
-          "label": "安信子公司-安全合规-安全技术工程师【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-18 16:47:05 招聘人数：若干",
-          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6aacfa8c15a82a89c3fac099&postType=campus"
-        },
-        {
-          "label": "安信子公司-安全运营-安全技术工程师【2027校园招聘】 启明信息 T序列 长春市 发布时间：2026-09-18 16:44:32 招聘人数：若干",
-          "url": "https://faw-zhaopin.hotjob.cn/SU603374380dcad4635b836531/pb/posDetail.html?postId=6aacf9f3f0cfabf2b4c924aa&postType=campus"
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1811,7 +1759,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1841,7 +1789,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1871,7 +1819,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1921,7 +1869,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1937,16 +1885,49 @@
       "sourceRow": 60,
       "officialUrl": "http://www.sinopharm.com/",
       "campusUrl": "https://sinopharm2026.iguopin.com/job",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "released",
+      "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "国聘",
+      "evidence": "高校专区 我要招人 登录/注册 职位类型 搜索 下载APP 关注公众号 热门岗位： 金融 IT/互联网 工程师 管培生 医疗 数据开发 更多 国有企业一线扩岗增招专项行动邀您参与 北京海开控股（集团）股份有限公司2027年校园招聘 安徽邮政2027年度秋季校园招聘宣讲行程全揭秘 金穗向阳，逐梦农商 | 广州农商银行2027届校园招聘 中国旅游集团2027年校园招聘正式启动 国检测试控股集团雄安有限公司公开招聘公告 现代汽车研发中心2027届秋季校园招聘正式启动！ 北京海开控股（集团）股份有限公司2027年校园招聘 安徽邮政2027年度秋季校园招聘宣讲行程全揭秘 金穗向阳，逐梦农商 | 广州农商银行2027",
       "evidenceDate": null,
       "pageTitle": "国聘",
       "finalUrl": "https://www.iguopin.com/",
-      "relatedLinks": [],
+      "relatedLinks": [
+        {
+          "label": "社会招聘",
+          "url": "https://www.iguopin.com/job?channel=social"
+        },
+        {
+          "label": "国聘高端",
+          "url": "https://www.iguopin.com/job?om=1168Qucp&om_cn=%E4%BB%85%E7%9C%8B%E9%AB%98%E7%AB%AF"
+        },
+        {
+          "label": "金融",
+          "url": "https://www.iguopin.com/job/list?keyword=%E9%87%91%E8%9E%8D"
+        },
+        {
+          "label": "IT/互联网",
+          "url": "https://www.iguopin.com/job/list?keyword=IT%2F%E4%BA%92%E8%81%94%E7%BD%91"
+        },
+        {
+          "label": "工程师",
+          "url": "https://www.iguopin.com/job/list?keyword=%E5%B7%A5%E7%A8%8B%E5%B8%88"
+        },
+        {
+          "label": "管培生",
+          "url": "https://www.iguopin.com/job/list?keyword=%E7%AE%A1%E5%9F%B9%E7%94%9F"
+        },
+        {
+          "label": "医疗",
+          "url": "https://www.iguopin.com/job/list?keyword=%E5%8C%BB%E7%96%97"
+        },
+        {
+          "label": "数据开发",
+          "url": "https://www.iguopin.com/job/list?keyword=%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91"
+        }
+      ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1971,7 +1952,7 @@
       "finalUrl": "https://zhaopin.sinomach.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -1987,16 +1968,16 @@
       "sourceRow": 62,
       "officialUrl": "http://www.poly.com.cn/",
       "campusUrl": "https://polycareer.zhiye.com/campus/jobs",
-      "status": "released",
-      "statusLabel": "已发现 2027 校招",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "研，挖掘招拍挂、收并购、城市更新等潜在投资项目； 2. 负责项目实地踏勘、投资测算及尽职调查，编制可研报告与立项材料，完成内部投资报批； 3. 负责合作方、政府单位商务对接与交易谈判，跟进土地摘牌、股权交割等全流程落地工作。 任职资格 1.2027届应届本科及以上学历毕业生，土地资源管理/房地产管理/房地产经济/经济统计学/应用经济学/工程管理等相关专业； 2.熟悉土地利用、土地评估、房地产投资分析、市场研究或数据分析； 3.有较强的执行能力、组织协调能力、沟通能力和分析判断能力。 立即投递 收藏 查看详情 建筑规划岗（华南公司）-秋招(J29587) 校园招聘 全职 广东省·佛山市 品质和伙人 202",
-      "evidenceDate": "2026-10-02",
-      "pageTitle": "校招职位",
+      "evidence": "保利发展控股集团股份有限公司",
+      "evidenceDate": null,
+      "pageTitle": "保利发展控股集团股份有限公司",
       "finalUrl": "https://polycareer.zhiye.com/campus/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2062,7 +2043,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2112,7 +2093,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2131,50 +2112,26 @@
       "status": "released",
       "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "册 职位类型 搜索 下载APP 关注公众号 热门岗位： 金融 IT/互联网 工程师 管培生 医疗 数据开发 更多 国有企业一线扩岗增招专项行动邀您参与 北京海开控股（集团）股份有限公司2027年校园招聘 金穗向阳，逐梦农商 | 广州农商银行2027届校园招聘 中国旅游集团2027年校园招聘正式启动 国检测试控股集团雄安有限公司公开招聘公告 中铝集团执纪审查中心招聘公告 现代汽车研发中心2027届秋季校园招聘正式启动！ 北京海开控股（集团）股份有限公司2027年校园招聘 金穗向阳，逐梦农商 | 广州农商银行2027届校园招聘 中国旅游集团2027年校园招聘正式启动 国检测试控股集团雄安有限公司公开招聘公告",
-      "evidenceDate": null,
-      "pageTitle": "国聘",
-      "finalUrl": "https://www.iguopin.com/",
+      "evidence": "新兴产业 储能氢能 新材料 节能环保与化工 电力电子与控制 太阳能 工业驱动 专题聚焦 东方视界 更多 东方电气“东方风瞳”给叶片装上“透视眼” [09-17] 抖音 快手 非洲屋脊上的希望风景线 [09-16] 抖音 快手 东方电气集团2027届校园招聘正式启动！ [09-11] 抖音 快手 致敬东方人！“东汽精神是一脉相承的，就是不靠天... [09-05] 抖音 快手 “东方曙光”1号，出海！ [09-04] 抖音 快手 东方站群 四川 · 成都 中国东方电气集团有限公司（总部） 点击跳转至此网站 东方电气股份有限公司（总部） 点击跳转至此网站 东方电气集团国际合作有限公司 点击跳转至此网站 宏",
+      "evidenceDate": "2026-09-30",
+      "pageTitle": "",
+      "finalUrl": "https://www.dongfang.com/",
       "relatedLinks": [
         {
-          "label": "社会招聘",
-          "url": "https://www.iguopin.com/job?channel=social"
+          "label": "校园招聘",
+          "url": "https://www.dongfang.com/zxns/xyzp.htm"
         },
         {
-          "label": "国聘高端",
-          "url": "https://www.iguopin.com/job?om=1168Qucp&om_cn=%E4%BB%85%E7%9C%8B%E9%AB%98%E7%AB%AF"
-        },
-        {
-          "label": "金融",
-          "url": "https://www.iguopin.com/job/list?keyword=%E9%87%91%E8%9E%8D"
-        },
-        {
-          "label": "IT/互联网",
-          "url": "https://www.iguopin.com/job/list?keyword=IT%2F%E4%BA%92%E8%81%94%E7%BD%91"
-        },
-        {
-          "label": "工程师",
-          "url": "https://www.iguopin.com/job/list?keyword=%E5%B7%A5%E7%A8%8B%E5%B8%88"
-        },
-        {
-          "label": "管培生",
-          "url": "https://www.iguopin.com/job/list?keyword=%E7%AE%A1%E5%9F%B9%E7%94%9F"
-        },
-        {
-          "label": "医疗",
-          "url": "https://www.iguopin.com/job/list?keyword=%E5%8C%BB%E7%96%97"
-        },
-        {
-          "label": "数据开发",
-          "url": "https://www.iguopin.com/job/list?keyword=%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91"
+          "label": "东方电气集团2027届校园招聘正式启动！",
+          "url": "https://www.dongfang.com/info/1097/20973.htm"
         }
       ],
-      "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "subsidiaryHint": true,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "浏览器渲染",
+      "checkSource": "官网直连",
       "httpStatus": 200
     },
     {
@@ -2216,7 +2173,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2282,7 +2239,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2307,7 +2264,7 @@
       "finalUrl": "https://www.ccgc.cn/?mod=zhaopin_detail&id=240279",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.ccgc.cn/?mod=zhaopin_detail&id=240279: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.ccgc.cn/?mod=zhaopin_d; http://www.ccgc.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.ccgc.cn/\", waiting unti",
       "previousStatus": "not_found",
       "stale": true
@@ -2347,7 +2304,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2388,32 +2345,32 @@
           "url": "https://www.iguopin.com/login?redirect=https%3A%2F%2Fwww.iguopin.com%2Fcompany%2Fsub%2Fjobs%3Fid%3D10685316526755617"
         },
         {
+          "label": "财务部出纳岗(资金管理会计) 「北京-丰台区」 新兴际华应急产业有限公司 校招 应届生 硕士 工商管理类等 招1人 出纳专员/助理 票据管理 银行结算 ··· 面议",
+          "url": "https://www.iguopin.com/job/detail?id=221931556036412920"
+        },
+        {
+          "label": "机器人算法工程师 「北京-朝阳区」 新兴际华科技集团有限公司 社招 3-5年 本科 自动化类等 招1人 不限职位 面议",
+          "url": "https://www.iguopin.com/job/detail?id=221847215109309942"
+        },
+        {
+          "label": "电气设计工程师 「北京-朝阳区」 新兴际华科技集团有限公司 社招 5-10年 本科 机械工程类等 招1人 不限职位 面议",
+          "url": "https://www.iguopin.com/job/detail?id=221846661914166782"
+        },
+        {
+          "label": "机器人总体工程师 「北京-朝阳区」 新兴际华科技集团有限公司 社招 5-10年 本科 自动化类等 招1人 其他职位 面议",
+          "url": "https://www.iguopin.com/job/detail?id=221846159151334909"
+        },
+        {
           "label": "销售经理（民品） 「北京等」 北京三兴汽车有限公司 社招 1-5年 本科 国际商务类等 招1人 市场营销专员/助理 市场开发 市场策划 ··· 面议",
           "url": "https://www.iguopin.com/job/detail?id=219521195609948909"
         },
         {
           "label": "销售经理（国际） 「北京等」 北京三兴汽车有限公司 社招 1-5年 本科 国际商务类等 招1人 市场营销专员/助理 市场开发 市场策划 ··· 面议",
           "url": "https://www.iguopin.com/job/detail?id=219520997605245677"
-        },
-        {
-          "label": "销售经理（军品） 「北京等」 北京三兴汽车有限公司 社招 1-5年 本科 机械工程类等 招1人 市场营销专员/助理 市场数据分析 市场开发 ··· 面议",
-          "url": "https://www.iguopin.com/job/detail?id=219520477578658531"
-        },
-        {
-          "label": "办公室-信息化管理协助岗 「北京-丰台区」 中新联进出口有限公司 实习 在校生 硕士 招2人 信息技术专员 120元/天",
-          "url": "https://www.iguopin.com/job/detail?id=219360911004009088"
-        },
-        {
-          "label": "事业部-业务协助岗 「北京-丰台区」 中新联进出口有限公司 实习 在校生 本科 招4人 销售专员/助理 100~120元/天",
-          "url": "https://www.iguopin.com/job/detail?id=219352314056540847"
-        },
-        {
-          "label": "党群与人力资源部（党委组织部）-人力资源工作协助岗 「北京-丰台区」 中新联进出口有限公司 实习 在校生 硕士 招1人 人力资源专员/助理 120元/天",
-          "url": "https://www.iguopin.com/job/detail?id=219350684703654576"
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2438,7 +2395,7 @@
       "finalUrl": "http://www.cmr-co.com/joinUs/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2463,7 +2420,7 @@
       "finalUrl": "https://travelsky.hotjob.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2497,7 +2454,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2531,7 +2488,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2565,7 +2522,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2595,7 +2552,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2661,7 +2618,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2680,13 +2637,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "中国电力建设集团 企业 公告 关于不法企业假冒中国电建集团子公司有关情况的公告 中国电建 股票代码: 601669 头条 新闻 公司党委传达学习习近平总书记近期重要讲话重要指示精神 公司党委传达学习习近平总书记近期重要讲话重要指示精神 王小军赴绍兴地铁项目开展节日期间安全生产督导检查 中央企业BIM软件创新联合体2026年度工作会在京召开 公司党委传达学习习近平总书记重要指示精神 王小军拜会阿塞拜疆副总理沙欣·穆斯塔法耶夫 王小军出席国资央企助力青海高质量发展推进会 时政新闻 国资动态 公司要闻 08 2026-1",
+      "evidence": "中国电建招聘平台",
       "evidenceDate": null,
       "pageTitle": "",
-      "finalUrl": "https://www.powerchina.cn/",
+      "finalUrl": "https://zhaopin.powerchina.cn/xyzp",
       "relatedLinks": [],
-      "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "subsidiaryHint": false,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2711,7 +2668,7 @@
       "finalUrl": "https://job.ceair.com/campus/campusJobList.html",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2741,7 +2698,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2787,7 +2744,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2853,7 +2810,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2911,7 +2868,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2945,7 +2902,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -2991,7 +2948,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3016,7 +2973,7 @@
       "finalUrl": "https://cgn.hotjob.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3082,7 +3039,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3107,7 +3064,7 @@
       "finalUrl": "https://oct.zhaopin.com/job2/index.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3123,16 +3080,21 @@
       "sourceRow": 89,
       "officialUrl": "http://www.gt.cn/",
       "campusUrl": "https://genertec.zhiye.com/",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "possible",
+      "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "通用技术集团招聘门户",
+      "evidence": "高端人才 校园招聘 校招职位",
       "evidenceDate": null,
-      "pageTitle": "通用技术集团招聘门户",
+      "pageTitle": "首页",
       "finalUrl": "https://genertec.zhiye.com/",
-      "relatedLinks": [],
+      "relatedLinks": [
+        {
+          "label": "校园招聘",
+          "url": "https://genertec.zhiye.com/custom/813f55cb-8392-5c3d-038e-1f815555e637"
+        }
+      ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3157,7 +3119,7 @@
       "finalUrl": "https://namkwong.hotjob.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3182,7 +3144,7 @@
       "finalUrl": "https://recruit.cscec.com/recruit#/index_nav?company_id=1873&contract_unit=31997577",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3212,7 +3174,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3242,7 +3204,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3267,7 +3229,7 @@
       "finalUrl": "https://chinalogisticsgroup.hotjob.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3292,7 +3254,7 @@
       "finalUrl": "https://nsbdxny.zhaopin.com/job/index.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3317,7 +3279,7 @@
       "finalUrl": "https://zp.crhc.cn/recportal/recruit_02",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3355,7 +3317,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3397,7 +3359,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3422,7 +3384,7 @@
       "finalUrl": null,
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "名单中缺少官网链接",
       "previousStatus": null,
       "stale": false
@@ -3445,7 +3407,7 @@
       "finalUrl": "https://www.ccag.cn/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3470,7 +3432,7 @@
       "finalUrl": "https://cscnrczp.zhiye.com/campus/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3516,7 +3478,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "http://www.tobacco.gov.cn/gjyc/zpxx/list.shtml: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tobacco.gov.cn/gjyc/zpxx/list.shtml\nCall log:\n  ; http://www.tobacco.gov.cn/: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tobacco.gov.cn/\nCall log:\n  - navigating to \"htt",
       "previousStatus": "possible",
       "stale": true
@@ -3560,7 +3522,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3585,7 +3547,7 @@
       "finalUrl": "https://www.ciitp.com.cn/mys?type=2",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3604,13 +3566,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "中国印钞造币集团有限公司官网 集中采购电子平台 收藏本站 网站地图 服务信息 EN Toggle navigation 首页 关于我们 公司简介 党的建设 组织架构 公司文化 发展历程 相关事项 人民币图样库 第一套人民币 第二套人民币 第三套人民币 第四套人民币 第五套人民币 普通纪念币 纪念钞 《人民币图样使用管理办法》 人民币识别 2019年版第五套人民币 2015年版第五套人民币100元 产品与服务 现金制造 现金服务 货币文化 货币信息化 专委会 专委会概况 工作动态 行业自律 规章制度 会员服务 标准化",
+      "evidence": "相关事项_中国印钞造币 集中采购电子平台 收藏本站 网站地图 服务信息 Toggle navigation 首页 关于我们 公司简介 党的建设 组织架构 公司文化 发展历程 相关事项 人民币图样库 第一套人民币 第二套人民币 第三套人民币 第四套人民币 第五套人民币 普通纪念币 纪念钞 《人民币图样使用管理办法》 人民币识别 2019年版第五套人民币 2015年版第五套人民币100元 产品与服务 现金制造 现金服务 货币文化 货币信息化 专委会 专委会概况 工作动态 行业自律 规章制度 会员服务 标准化 关于我们 ",
       "evidenceDate": null,
       "pageTitle": "",
-      "finalUrl": "https://www.cbpm.cn/cn/",
+      "finalUrl": "https://m.cbpm.cn/cn/aboutus/xgsx/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3629,8 +3591,8 @@
       "status": "released",
       "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "富“守门员” 2026-09-29 把工作当事业干 把客户当亲人看 2026-09-29 信息公告 邮资票品发行信息 采购公告公示 预决算公开 关于全国邮政行业先进集体和先进个人正式推荐对象的公示 2026-09-30 中国邮政集团有限公司2027年度联合校园招聘公告 2026-09-07 2026年度邮储银行短视频暨好新闻征集活动启事 2026-07-16 2026年中国邮政集团有限公司执纪审查骨干集中社会招聘公告 2026-06-15 中国邮政集团有限公司关于公开征集《丁未年》特种邮票图稿的公告 2026-04-20 2026年中国邮政贺年有奖邮资封片卡产品开奖结果 2026-03-27 中邮无人机（",
-      "evidenceDate": "2026-10-09",
+      "evidence": "当事业干 把客户当亲人看 2026-09-29 绿衣使者 高原无悔 2026-09-29 信息公告 邮资票品发行信息 采购公告公示 预决算公开 关于全国邮政行业先进集体和先进个人正式推荐对象的公示 2026-09-30 中国邮政集团有限公司2027年度联合校园招聘公告 2026-09-07 2026年度邮储银行短视频暨好新闻征集活动启事 2026-07-16 2026年中国邮政集团有限公司执纪审查骨干集中社会招聘公告 2026-06-15 中国邮政集团有限公司关于公开征集《丁未年》特种邮票图稿的公告 2026-04-20 2026年中国邮政贺年有奖邮资封片卡产品开奖结果 2026-03-27 中邮无人机（",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.chinapost.com.cn/",
       "relatedLinks": [
@@ -3640,7 +3602,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3656,21 +3618,16 @@
       "sourceRow": 107,
       "officialUrl": "https://www.cdb.com.cn/",
       "campusUrl": "https://www.cdb.com.cn/rlzy/gzjh/",
-      "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
+      "status": "not_found",
+      "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "工作机会 国家开发银行2026年校园招聘 [2025-09-12]",
+      "evidence": "",
       "evidenceDate": null,
-      "pageTitle": "国家开发银行_工作机会",
+      "pageTitle": "",
       "finalUrl": "https://www.cdb.com.cn/rlzy/gzjh/",
-      "relatedLinks": [
-        {
-          "label": "国家开发银行2026年校园招聘",
-          "url": "http://cdb2026.zhaopin.com/"
-        }
-      ],
-      "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "relatedLinks": [],
+      "subsidiaryHint": false,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3736,7 +3693,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3766,7 +3723,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3791,7 +3748,7 @@
       "finalUrl": "https://www.icbc.com.cn/ICBCLtd/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3810,13 +3767,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "邀约专享-登录掌银参与抽奖（... 2026-10-08 微信支付单笔满5000元返15元...",
-      "evidenceDate": "2026-10-08",
+      "evidence": "美团出行旅行优惠（10月） 2026-10-09 美团外卖优惠（2026年10-12月）",
+      "evidenceDate": "2026-10-12",
       "pageTitle": "",
       "finalUrl": "https://www.abchina.com/cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3832,10 +3789,10 @@
       "sourceRow": 112,
       "officialUrl": "https://www.boc.cn/",
       "campusUrl": "https://campus.chinahr.com/pages/2027-boc/#/gonggao",
-      "status": "today",
-      "statusLabel": "今日更新",
-      "todayUpdate": true,
-      "evidence": "应聘者自即日起，可登录中国银行校园招聘网站查询相关信息，在线注册并填写个人信息后，选择相应机构的岗位进行在线报名（每人最多可申请5个岗位，其中应聘北京、上海、广东、深圳等境内一级分行或直属分行可申请1-2个岗位，应聘其他一级机构可申请1个岗位；所有岗位均为平行志愿，不分先后）。 报名截止时间为北京时间2026年10月9日24点。 四、注意事项",
+      "status": "possible",
+      "statusLabel": "有校招入口，年份待核实",
+      "todayUpdate": false,
+      "evidence": "中国银行2027年全球校园招聘 首页",
       "evidenceDate": "2026-10-09",
       "pageTitle": "中国银行2027年全球校园招聘",
       "finalUrl": "https://campus.chinahr.com/pages/2027-boc/#/gonggao",
@@ -3862,7 +3819,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3920,7 +3877,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3962,7 +3919,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -3992,7 +3949,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4050,7 +4007,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4066,16 +4023,33 @@
       "sourceRow": 117,
       "officialUrl": "https://www.picc.com.cn/",
       "campusUrl": "https://picc.zhiye.com/custom/campus?c1=6&hideAll=true",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "released",
+      "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "中国人民保险招聘",
-      "evidenceDate": null,
+      "evidence": "尔克孜自治州 喀什地区 和田地区 伊犁哈萨克自治州 塔城地区 阿勒泰地区 石河子市 阿拉尔市 图木舒克市 北屯市 昆玉市 发布时间： 全部 三天内 七天内 一个月内 三个月内 半年内 职位搜索： 人保财险-江苏分公司-科技类1-软件开发岗-2027届校招（宿迁市分公司）(J80728) 人保财险江苏分公司 江苏省·宿迁市 2026-09-24 展开详情 收起详情 岗位职责： 1.负责公司业务系统运维保障，软硬件设备使用维护工作； 2.负责自主研发类项目的需求分析、软件设计、编码、测试和维护等工作； 3.负责本地软件项目开发工作（本地软件项目的需求对接、开发建设） / 负责网络日常运维（负责网络基础设施的",
+      "evidenceDate": "2026-09-24",
       "pageTitle": "中国人民保险招聘",
       "finalUrl": "https://picc.zhiye.com/custom/campus?c1=6&hideAll=true",
-      "relatedLinks": [],
-      "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "relatedLinks": [
+        {
+          "label": "登录",
+          "url": "https://picc.zhiye.com/login?goto=custom%2Fcampus%3Fc1%3D6%26hideAll%3Dtrue"
+        },
+        {
+          "label": "校园招聘QA",
+          "url": "https://picc.zhiye.com/custom/zpgg?hideAll=true"
+        },
+        {
+          "label": "科技类岗位",
+          "url": "https://picc.zhiye.com/custom/campus?c1=6&hideAll=true"
+        },
+        {
+          "label": "综合类岗位",
+          "url": "https://picc.zhiye.com/custom/campus?c1=8&hideAll=true"
+        }
+      ],
+      "subsidiaryHint": true,
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4091,16 +4065,21 @@
       "sourceRow": 118,
       "officialUrl": "https://www.e-chinalife.com/",
       "campusUrl": "https://chinalife.zhiye.com/custom/campus?hideMenu=1",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "possible",
+      "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "中国人寿招聘官网",
-      "evidenceDate": null,
+      "evidence": "首页 校园招聘 校招公告",
+      "evidenceDate": "2026-09-09",
       "pageTitle": "中国人寿招聘官网",
       "finalUrl": "https://chinalife.zhiye.com/custom/campus?hideMenu=1",
-      "relatedLinks": [],
-      "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "relatedLinks": [
+        {
+          "label": "校园招聘 校招公告 简历投递",
+          "url": "https://chinalife.zhiye.com/custom/campus?hideMenu=1"
+        }
+      ],
+      "subsidiaryHint": true,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4119,22 +4098,17 @@
       "status": "possible",
       "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "子公司动态 太平新星 梦想启航｜中国太平举办2026年校招新员工培训班 近日，中国太平举办2026年“太平新星”校招新员工培训班，集团境内外10家子公司的新员工参加培训。集团执行董事那艳芳出席开班式并作动员讲话，勉励全体学员坚定理想信念、练就过硬本领，在岗位上奋力书...",
-      "evidenceDate": "2026-09-17",
-      "pageTitle": "",
-      "finalUrl": "https://www.cntaiping.com/",
-      "relatedLinks": [
-        {
-          "label": "太平新星 梦想启航｜中国太平举办2026年校招新员工培训班 近日，中国太平举办2026年“太平新星”校招新员工培训班，集团境内外10家子公司的新员工参加培训。集团执行董事那艳芳出席",
-          "url": "https://www.cntaiping.com/news/124363.html"
-        }
-      ],
+      "evidence": "人在太平 校园招聘 校招职位",
+      "evidenceDate": "2026-10-08",
+      "pageTitle": "中国太平人才招聘官网",
+      "finalUrl": "https://cntp.zhiye.com/campus/jobs",
+      "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "官网直连",
+      "checkSource": "浏览器渲染",
       "httpStatus": 200
     },
     {
@@ -4146,11 +4120,11 @@
       "sourceRow": 120,
       "officialUrl": "https://www.sinosure.com.cn/",
       "campusUrl": "https://sinosure.zhaopin.com/xygg/index.html",
-      "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
-      "todayUpdate": false,
-      "evidence": "走进信保 校园招聘 招聘公告",
-      "evidenceDate": "2026-04-03",
+      "status": "today",
+      "statusLabel": "今日更新",
+      "todayUpdate": true,
+      "evidence": "中国出口信用保险公司2027年校园招聘公告 2026-10-10 02",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "中国出口信用保险公司",
       "finalUrl": "https://sinosure.zhaopin.com/xygg/index.html",
       "relatedLinks": [
@@ -4159,15 +4133,19 @@
           "url": "https://sinosure.zhaopin.com/xygg/index.html"
         },
         {
-          "label": "01 中国出口信用保险公司2026年校园招聘公告 2025-10-17",
+          "label": "01 中国出口信用保险公司2027年校园招聘公告 2026-10-10",
+          "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司2027年校园招聘公告"
+        },
+        {
+          "label": "02 中国出口信用保险公司2026年校园招聘公告 2025-10-17",
           "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司2026年校园招聘公告"
         },
         {
-          "label": "02 中国出口信用保险公司2025年校园招聘公告 2024-09-25",
+          "label": "03 中国出口信用保险公司2025年校园招聘公告 2024-09-25",
           "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司2025年校园招聘公告 "
         },
         {
-          "label": "03 中国出口信用保险公司2024年校园招聘公告 2023-09-28",
+          "label": "04 中国出口信用保险公司2024年校园招聘公告 2023-09-28",
           "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司2024年校园招聘公告"
         },
         {
@@ -4189,14 +4167,10 @@
         {
           "label": "06 中国出口信用保险公司厦门分公司2026年春季校园招聘公告 2026-03-19",
           "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司厦门分公司2026年春季校园招聘公告"
-        },
-        {
-          "label": "07 中国出口信用保险公司辽宁分公司2025年春季校园招聘公告 2025-03-18",
-          "url": "https://sinosure.zhaopin.com/xyggShow/index.html?title=中国出口信用保险公司辽宁分公司2025年春季校园招聘公告"
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4221,7 +4195,7 @@
       "finalUrl": "https://famc.zhiye.com/campus/jobs",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4240,26 +4214,17 @@
       "status": "possible",
       "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "人才招聘 校园招聘 社会招聘",
+      "evidence": "校园招聘 首页",
       "evidenceDate": null,
-      "pageTitle": "",
-      "finalUrl": "https://www.gwamcc.com/",
-      "relatedLinks": [
-        {
-          "label": "人才招聘",
-          "url": "https://www.gwamcc.com/JobInfo.aspx?liName=129"
-        },
-        {
-          "label": "社会招聘",
-          "url": "https://www.gwamcc.com/JobInfo.aspx?liName=85"
-        }
-      ],
+      "pageTitle": "校园招聘",
+      "finalUrl": "https://gwamcc.zhiye.com/campus/jobs",
+      "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
-      "checkSource": "官网直连",
+      "checkSource": "浏览器渲染",
       "httpStatus": 200
     },
     {
@@ -4271,16 +4236,33 @@
       "sourceRow": 123,
       "officialUrl": "https://www.coamc.com.cn/",
       "campusUrl": "https://coamc.zhiye.com/custom/campus?hideMenu=1",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "possible",
+      "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "招聘门户",
+      "evidence": "社会招聘 校园招聘 个人中心",
       "evidenceDate": null,
       "pageTitle": "招聘门户",
       "finalUrl": "https://coamc.zhiye.com/custom/campus?hideMenu=1",
-      "relatedLinks": [],
-      "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "relatedLinks": [
+        {
+          "label": "校园招聘",
+          "url": "https://coamc.zhiye.com/custom/campus?hideMenu=1"
+        },
+        {
+          "label": "个人中心",
+          "url": "https://coamc.zhiye.com/login?goto=custom%2Fcampus%3FhideMenu%3D1"
+        },
+        {
+          "label": "招聘公告 Recruitment Announcement",
+          "url": "https://coamc.zhiye.com/custom/xzjh?hideMenu=1"
+        },
+        {
+          "label": "招聘流程 Recruitment Process",
+          "url": "https://coamc.zhiye.com/custom/xzlc?hideMenu=1"
+        }
+      ],
+      "subsidiaryHint": true,
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4296,14 +4278,18 @@
       "sourceRow": 124,
       "officialUrl": "https://www.cinda.com.cn/home/pc/cn/xdjt/index.shtml",
       "campusUrl": "https://www.cinda.com.cn/home/pc/cn/xdjt/xdjtpd/rczp/20181228/223004.shtml",
-      "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
+      "status": "released",
+      "statusLabel": "已发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "公司总部： >>中国信达资产管理股份有限公司在京单位2025年度接收高校毕业生情况公示 new",
+      "evidence": "__ ________ _______________________________________________________________________ 2026年中国信达招聘信息 公司总部： >>中国信达资产管理股份有限公司2027年度校园招聘公告 new >>中国信达资产管理股份有限公司总部纪委办公室2026年社会招聘公告 new >>中国信达资产管理股份有限公司总部2026年社会招聘公告 new >>中国信达资产管理股份有限公司博士后科研工作站2026年度面向海内外公开招收博士后研究人员公告 new >>中国信达关于公开招聘信达地产市场化高级管理人员的公告 new >>中国信达关于公开",
       "evidenceDate": null,
       "pageTitle": "",
       "finalUrl": "https://www.cinda.com.cn/home/pc/cn/xdjt/xdjtpd/rczp/20181228/223004.shtml",
       "relatedLinks": [
+        {
+          "label": ">>中国信达资产管理股份有限公司2027年度校园招聘公告",
+          "url": "https://www.cinda.com.cn/home/pc/cn/xdjt/xdjtpd/rczp/20261009/265731.shtml"
+        },
         {
           "label": ">>中国信达资产管理股份有限公司在京单位2025年度接收高校毕业生情况公示",
           "url": "https://www.cinda.com.cn/home/pc/cn/xdjt/xdjtpd/rczp/20250910/263962.shtml"
@@ -4334,7 +4320,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4359,7 +4345,7 @@
       "finalUrl": "https://www.ccdc.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4405,7 +4391,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4430,7 +4416,7 @@
       "finalUrl": "https://www.cpppf.org/corpor/index_28.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.cpppf.org/corpor/index_28.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cpppf.org/corpor/index; https://www.cpppf.org/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cpppf.org/\", waiting u",
       "previousStatus": "not_found",
       "stale": true
@@ -4447,13 +4433,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "请求时间: 2026-10-09 06:13:50 您的请求ID是:",
-      "evidenceDate": "2026-10-09",
+      "evidence": "请求时间: 2026-10-10 06:11:42 您的请求ID是:",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "405",
       "finalUrl": "https://www.gjrdjj.com/news/news58.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4478,7 +4464,7 @@
       "finalUrl": "https://www.nacga.cn/resources/notice.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4508,7 +4494,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4524,16 +4510,21 @@
       "sourceRow": 3,
       "officialUrl": "https://www.sdholding.com/",
       "campusUrl": "https://sdholding.zhiye.com/#/campus",
-      "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "status": "possible",
+      "statusLabel": "有校招入口，年份待核实",
       "todayUpdate": false,
-      "evidence": "四川发展",
+      "evidence": "社会招聘 校园招聘 其他招聘",
       "evidenceDate": null,
-      "pageTitle": "四川发展",
+      "pageTitle": "首页",
       "finalUrl": "https://sdholding.zhiye.com/#/campus",
-      "relatedLinks": [],
+      "relatedLinks": [
+        {
+          "label": "校园招聘",
+          "url": "https://sdholding.zhiye.com/#/campus"
+        }
+      ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4552,13 +4543,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "综合新闻 2026-10-01 王诚以“四不两直”检查督导绵竹抽水蓄能项目安全生产工作",
-      "evidenceDate": "2026-10-09",
+      "evidence": "综合新闻 2026-10-10 集团与川商总会开展工作座谈",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.scnyw.com/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4588,7 +4579,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4613,7 +4604,7 @@
       "finalUrl": "https://scairports.com/index/lists/qiyezhaopin.html",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4630,7 +4621,7 @@
       "officialUrl": "https://www.scsltjt.com/",
       "campusUrl": "https://www.scsltjt.com/xinwen/list/1dcfa43ccb7ede4618a502e9766368ba.html",
       "status": "possible",
-      "statusLabel": "有校招入口，年份待核实",
+      "statusLabel": "有校招入口，年份待核实（今日未验证）",
       "todayUpdate": false,
       "evidence": "阅读详情 四川省旅游投资集团有限责任公司2026年高校毕业生招聘公告 四川省旅游投资集团有限责任公司（以下简称省旅投集团）是省委、省政府批准组建的大型旅游旗舰型企业集团，肩负落实文化强省旅游强省建设战略部署，整合全省文旅资源、推动文旅产业转型升级，带动全省文旅产业发展的重要使命。省旅投集团成立于2017年4月，重...",
       "evidenceDate": null,
@@ -4643,12 +4634,10 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
-      "checkError": null,
-      "previousStatus": null,
-      "stale": false,
-      "checkSource": "官网直连",
-      "httpStatus": 200
+      "lastChecked": "2026-10-10T14:20:51+08:00",
+      "checkError": "https://www.scsltjt.com/xinwen/list/1dcfa43ccb7ede4618a502e9766368ba.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.scsltjt.com/xinwen/lis; https://www.scsltjt.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.scsltjt.com/\", waiting",
+      "previousStatus": "possible",
+      "stale": true
     },
     {
       "id": "c0134",
@@ -4660,7 +4649,7 @@
       "officialUrl": "http://www.spsigroup.com.cn/",
       "campusUrl": "http://www.spsigroup.com.cn/recruitment.html",
       "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "statusLabel": "暂未发现 2027 校招（今日未验证）",
       "todayUpdate": false,
       "evidence": "人才招聘 首页 关于港投 集团简介 组织架构 发展战略 企业文化 业务板块 现代综合物流 港航项目投建与运营 现代产业开发 产融投资 业务版图 新闻中心 集团要闻 港投V视 成员动态 专题活动 媒体聚焦 党建群团 基层党建 群团动态 员工风采 廉洁港投 工作动态 党纪法规 警钟长鸣 正风肃纪 《清廉港投》 监督举报 信息公开 企业基本信息 企业重大事项 人事薪酬事项 员工招聘信息 公告公示 企业公示 违规举报 来信来访 港投英才 人才培育 人才招聘 港投英才 人才培育 人才招聘 港投英才 > 人才招聘 > 招聘岗 ",
       "evidenceDate": null,
@@ -4677,12 +4666,10 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
-      "checkError": null,
-      "previousStatus": null,
-      "stale": false,
-      "checkSource": "官网直连",
-      "httpStatus": 200
+      "lastChecked": "2026-10-10T14:20:51+08:00",
+      "checkError": "http://www.spsigroup.com.cn/recruitment.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.spsigroup.com.cn/recrui; http://www.spsigroup.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.spsigroup.com.cn/\", wai",
+      "previousStatus": "not_found",
+      "stale": true
     },
     {
       "id": "c0135",
@@ -4702,7 +4689,7 @@
       "finalUrl": "https://www.scsaim.com/index.php?m=content&c=index&a=lists&catid=27",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4727,7 +4714,7 @@
       "finalUrl": "https://www.scsaim.com/index.php?m=content&c=index&a=lists&catid=27",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4752,7 +4739,7 @@
       "finalUrl": "https://hr.shudaojt.com/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4794,7 +4781,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4819,7 +4806,7 @@
       "finalUrl": "https://www.cmjt.com.cn/#/recruit/RecruitList/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4844,7 +4831,7 @@
       "finalUrl": "https://scsstjt.com/hr?tab=h3",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4869,7 +4856,7 @@
       "finalUrl": "http://sie.wcif.cn/notice-39.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "http://sie.wcif.cn/notice-39.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://sie.wcif.cn/notice-39.html\"; http://sie.wcif.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://sie.wcif.cn/\", waiting unti",
       "previousStatus": "not_found",
       "stale": true
@@ -4892,7 +4879,7 @@
       "finalUrl": "https://www.zppdc.com/zppkfyx/sy",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4911,13 +4898,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "调试 请求信息 : 2026-10-09 14:13:55 HTTP/2.0 GET : https://www.scfortune.com.cn/public/product.aspx?mid=227&sid=97&id=98 运行时间 : 0.006750s [ 吞吐率：148.15req/s ] 内存消耗：1,704.61kb 文件加载：241",
-      "evidenceDate": "2026-10-09",
+      "evidence": "调试 请求信息 : 2026-10-10 14:11:49 HTTP/2.0 GET : https://www.scfortune.com.cn/public/product.aspx?mid=227&sid=97&id=98 运行时间 : 0.009716s [ 吞吐率：102.92req/s ] 内存消耗：1,704.61kb 文件加载：241",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "系统发生错误",
       "finalUrl": "https://www.scfortune.com.cn/public/product.aspx?mid=227&sid=97&id=98",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4942,7 +4929,7 @@
       "finalUrl": "https://www.scsalt.com/hr.thtml?t=10953",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4961,13 +4948,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "请求时间: 2026-10-09 06:13:56 您的请求ID是:",
-      "evidenceDate": "2026-10-09",
+      "evidence": "请求时间: 2026-10-10 06:11:50 您的请求ID是:",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "405",
       "finalUrl": "https://www.cqa.cn/job/11/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -4986,13 +4973,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "WAF拦截页面 您的请求已中断 您提交的请求可能对网站造成威胁，无法访问 可能原因 Web应用防护服务检测您当前访问存在Web安全风险或访问不合规 Client 浏览器正常 腾讯云WAF 访问拦截 源站服务器 无法访问 您可以做什么？ 如有疑问，请点击提交反馈或联系网站安全运维中心反馈请求UUID 请求UUID： 7df20f07-5bcd-4063-a8c9-7a97eb548168 提交反馈",
+      "evidence": "WAF拦截页面 您的请求已中断 您提交的请求可能对网站造成威胁，无法访问 可能原因 Web应用防护服务检测您当前访问存在Web安全风险或访问不合规 Client 浏览器正常 腾讯云WAF 访问拦截 源站服务器 无法访问 您可以做什么？ 如有疑问，请点击提交反馈或联系网站安全运维中心反馈请求UUID 请求UUID： e8a975e8-c9f5-4007-ae5d-82620eb03e30 提交反馈",
       "evidenceDate": null,
       "pageTitle": "WAF拦截页面",
       "finalUrl": "https://www.qingling.com.cn/hr/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5017,7 +5004,7 @@
       "finalUrl": "http://www.ccphc.com.cn/html/xxgk/zptz/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5042,7 +5029,7 @@
       "finalUrl": "https://cme-cq.com/about-24-1.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5067,7 +5054,7 @@
       "finalUrl": "https://www.ccegc.cn/jjjg/zpxx/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5101,7 +5088,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5126,7 +5113,7 @@
       "finalUrl": "https://www.cqcig.com/25",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5168,7 +5155,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5193,7 +5180,7 @@
       "finalUrl": "https://www.cqdc.com/column?cid=55",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5227,7 +5214,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.cqjtkt.cn/channel/gggs_rczp: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqjtkt.cn/channel/gggs; https://www.cqjtkt.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqjtkt.cn/\", waiting u",
       "previousStatus": "possible",
       "stale": true
@@ -5250,7 +5237,7 @@
       "finalUrl": "https://www.cqyfkgjt.com/join-us/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5284,7 +5271,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5303,18 +5290,22 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "重庆农村商业银行 简 | 繁 | EN 本网站支持IPv6 24小时客服热线： 95389 人才招聘 存款保险 关于我行 我行简介 新闻中心 企业文化 人才招聘 采购信息 采购管理平台 个人网上银行 个人网上银行 企业网上银行 司库系统 现金管理 登录 登录 登录 登录 搜索 当前位置： 首页 > 关于我行 > 人才招聘 关于我行 我行简介 新闻中心 · 银行公告 · 企业党建 · 我行动态 · 我行荣誉 企业文化 人才招聘 采购信息 采购管理平台 法律声明 人才招聘 首页 上一页 下一页 尾页 当前 1/1 页 ",
-      "evidenceDate": null,
+      "evidence": "重庆农村商业银行2026年春季社会招聘拟聘用人员公示 [2026-10-10] 首页",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.cqrcb.com/cqrcb/aboutus/job/index.html",
       "relatedLinks": [
         {
           "label": "人才招聘",
           "url": "https://www.cqrcb.com/cqrcb/aboutus/job/index.html"
+        },
+        {
+          "label": "· 重庆农村商业银行2026年春季社会招聘拟聘用人员公示 [2026-10-10]",
+          "url": "https://www.cqrcb.com/cqrcb/aboutus/job/335332.html"
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5356,7 +5347,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:16:41+08:00",
+      "lastChecked": "2026-10-10T14:14:55+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5373,7 +5364,7 @@
       "officialUrl": "https://www.ccqtgb.com/",
       "campusUrl": "https://zhaopin.ccqtgb.com:8443/recruit#/portal_job_list?job_class=campus",
       "status": "not_found",
-      "statusLabel": "暂未发现 2027 校招",
+      "statusLabel": "暂未发现 2027 校招（今日未验证）",
       "todayUpdate": false,
       "evidence": "重庆三峡银行招聘管理系统",
       "evidenceDate": null,
@@ -5381,12 +5372,10 @@
       "finalUrl": "https://zhaopin.ccqtgb.com:8443/recruit#/portal_job_list?job_class=campus",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
-      "checkError": null,
-      "previousStatus": null,
-      "stale": false,
-      "checkSource": "官网直连",
-      "httpStatus": 200
+      "lastChecked": "2026-10-10T14:20:51+08:00",
+      "checkError": "https://zhaopin.ccqtgb.com:8443/recruit#/portal_job_list?job_class=campus: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://zhaopin.ccqtgb.com:8443/re; https://www.ccqtgb.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.ccqtgb.com/\", waiting ",
+      "previousStatus": "not_found",
+      "stale": true
     },
     {
       "id": "c0160",
@@ -5406,7 +5395,7 @@
       "finalUrl": "https://www.cqtransit.com/file/gongshigonggao.html",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5436,7 +5425,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5470,7 +5459,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.bigdatacq.com/talentRecruitment.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.bigdatacq.com/talentRe; https://www.bigdatacq.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.bigdatacq.com/\", waiti",
       "previousStatus": "possible",
       "stale": true
@@ -5493,7 +5482,7 @@
       "finalUrl": "https://www.cqsnk.cn/index.php?c=article&a=type&tid=97",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5518,7 +5507,7 @@
       "finalUrl": "https://www.cqiic.com/lxwm2/zxns.htm",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.cqiic.com/lxwm2/zxns.htm: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqiic.com/lxwm2/zxns.h; https://www.cqiic.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqiic.com/\", waiting u",
       "previousStatus": "not_found",
       "stale": true
@@ -5541,7 +5530,7 @@
       "finalUrl": null,
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "http://www.cftecgroup.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.cftecgroup.com/\", waiti",
       "previousStatus": null,
       "stale": false
@@ -5569,7 +5558,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5588,13 +5577,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "拦截时间： 2026-10-09 14:14:04 本次事件ID",
-      "evidenceDate": "2026-10-09",
+      "evidence": "拦截时间： 2026-10-10 14:12:45 本次事件ID",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "",
       "finalUrl": "https://www.cqggzy.com/023/023007/second-page.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5628,7 +5617,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5653,7 +5642,7 @@
       "finalUrl": "https://www.cqdg.com.cn/index/xxgk/tzgg.html?type=1&site=tztg",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.cqdg.com.cn/index/xxgk/tzgg.html?type=1&site=tztg: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqdg.com.cn/index/xxgk; https://www.cqdg.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.cqdg.com.cn/\", waiting",
       "previousStatus": "not_found",
       "stale": true
@@ -5670,13 +5659,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "【今天头条】集团矿业基金（马矿项目）完成光谱特征采集 2026-10-09 09:10:12 【今天头条】二零八：36载星辰大海",
-      "evidenceDate": "2026-10-09",
+      "evidence": "【今天头条】集团助力11区县林地“上户口” 2026-10-10 09:16:44 【今天头条】集团矿业基金（马矿项目）完成光谱特征采集",
+      "evidenceDate": "2026-10-10",
       "pageTitle": "重庆市地矿集团",
       "finalUrl": "https://cqdzjt.com/#/home",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5701,7 +5690,7 @@
       "finalUrl": "https://www.moutai.com.cn/mtjt/xxgk/gsgg/index.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5731,7 +5720,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5756,7 +5745,7 @@
       "finalUrl": "https://www.gznyjt.cn/channels/c14/c14_1.html",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gznyjt.cn/channels/c14/c14_1.html: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gznyjt.cn/channels/c14; https://www.gznyjt.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gznyjt.cn/\", waiting u",
       "previousStatus": "not_found",
       "stale": true
@@ -5779,7 +5768,7 @@
       "finalUrl": "https://gedc.cn/article-list?type_id=42&id=29",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://gedc.cn/article-list?type_id=42&id=29: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://gedc.cn/article-list?type_; https://gedc.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://gedc.cn/\", waiting until \"",
       "previousStatus": "not_found",
       "stale": true
@@ -5807,7 +5796,7 @@
         }
       ],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5832,7 +5821,7 @@
       "finalUrl": "https://gzqsgz.com/p/msgList?id=1585513028251713537",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5857,7 +5846,7 @@
       "finalUrl": "https://www.gztourism.com.cn/xxgk/rczp/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gztourism.com.cn/xxgk/rczp/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gztourism.com.cn/xxgk/; https://www.gztourism.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gztourism.com.cn/\", wa",
       "previousStatus": "not_found",
       "stale": true
@@ -5880,7 +5869,7 @@
       "finalUrl": "https://www.gzwlcyjt.com/rczp",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5910,7 +5899,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzbdgc.com.cn/category/6: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzbdgc.com.cn/category; https://www.gzbdgc.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzbdgc.com.cn/\", waiti",
       "previousStatus": "possible",
       "stale": true
@@ -5933,7 +5922,7 @@
       "finalUrl": "http://zgysqy.com/default/Index",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -5958,7 +5947,7 @@
       "finalUrl": "http://www.gzgs.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "http://www.gzgs.com.cn/case/main/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.gzgs.com.cn/case/main/\"; http://www.gzgs.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.gzgs.com.cn/\", waiting ",
       "previousStatus": "not_found",
       "stale": true
@@ -5981,7 +5970,7 @@
       "finalUrl": "https://www.zgxnnk.com/notifications",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -6043,7 +6032,7 @@
         }
       ],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -6068,7 +6057,7 @@
       "finalUrl": "https://www.gzttjt.com/xxgk/rczp/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzttjt.com/xxgk/rczp/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzttjt.com/xxgk/rczp/\"; https://www.gzttjt.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzttjt.com/\", waiting ",
       "previousStatus": "not_found",
       "stale": true
@@ -6091,7 +6080,7 @@
       "finalUrl": "https://www.gzssltzinc.com/list?pid=3a0e96ee-384b-8244-c0cd-06a57d655a43&subid=3a0e9712-4d6f-9280-8bcd-f6fccf70cdf8",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzssltzinc.com/list?pid=3a0e96ee-384b-8244-c0cd-06a57d655a43&subid=3a0e9712-4d6f-9280-8bcd-f6fccf70cdf8: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzssltzinc.com/list?pi; https://www.gzssltzinc.com/home: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzssltzinc.com/home\", ",
       "previousStatus": "not_found",
       "stale": true
@@ -6114,7 +6103,7 @@
       "finalUrl": "http://www.gzzytp.com/news#/home",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -6139,7 +6128,7 @@
       "finalUrl": "https://www.gzxijiu.com/news/notice?menuId=yoq2095oCqKxcQas_7Yz2",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzxijiu.com/news/notice?menuId=yoq2095oCqKxcQas_7Yz2: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzxijiu.com/news/notic; https://www.gzxijiu.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzxijiu.com/\", waiting",
       "previousStatus": "not_found",
       "stale": true
@@ -6162,7 +6151,7 @@
       "finalUrl": "https://www.gzjjjt.com.cn/node/131",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzjjjt.com.cn/node/131: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzjjjt.com.cn/node/131; https://www.gzjjjt.com.cn/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzjjjt.com.cn/\", waiti",
       "previousStatus": "not_found",
       "stale": true
@@ -6185,7 +6174,7 @@
       "finalUrl": "http://www.gzsghy.com.cn/",
       "relatedLinks": [],
       "subsidiaryHint": false,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -6210,7 +6199,7 @@
       "finalUrl": "https://www.gggg.cn/xxgk/xxgknr/rczpxx/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
@@ -6235,7 +6224,7 @@
       "finalUrl": "https://www.gzshdkf.com/?cat=17",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": "https://www.gzshdkf.com/?cat=17: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzshdkf.com/?cat=17\", ; https://www.gzshdkf.com/: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gzshdkf.com/\", waiting",
       "previousStatus": "not_found",
       "stale": true
@@ -6252,13 +6241,13 @@
       "status": "not_found",
       "statusLabel": "暂未发现 2027 校招",
       "todayUpdate": false,
-      "evidence": "查看详情 >> 2026-10-09 贵州省毕节公路管理局普通国省干线公路3+3年长周期养护综合总承包试点项目（2026年度专项养护工程--水稳冷再生）--劳务合作中标公示",
+      "evidence": "查看详情 >> 2026-10-09 贵州省毕节公路管理局2026年普通省道路面提升工程（金沙境）混凝土采购公告",
       "evidenceDate": "2026-10-09",
       "pageTitle": "",
       "finalUrl": "http://www.gzjyjt.com/xxgk//tzgg/",
       "relatedLinks": [],
       "subsidiaryHint": true,
-      "lastChecked": "2026-10-09T14:21:41+08:00",
+      "lastChecked": "2026-10-10T14:20:51+08:00",
       "checkError": null,
       "previousStatus": null,
       "stale": false,
