@@ -2,8 +2,21 @@ const state = {
   data: null,
   region: "全部",
   status: null,
+  applicationStatus: "all",
   query: "",
 };
+
+const applicationStatuses = [
+  { value: "not_notified", label: "未通知" },
+  { value: "notified", label: "已通知" },
+  { value: "applied", label: "已投递" },
+  { value: "written", label: "已笔试" },
+  { value: "interview", label: "已面试" },
+  { value: "rejected", label: "已拒绝" },
+  { value: "unsuitable", label: "不合适" },
+];
+const applicationStatusNames = Object.fromEntries(applicationStatuses.map((item) => [item.value, item.label]));
+const applicationStorageKey = "campus-radar-application-status-v1";
 
 const statusOrder = { today: 0, released: 1, possible: 2, not_found: 3, error: 4, not_checked: 5 };
 const statusNames = {
@@ -27,6 +40,37 @@ const elements = {
   resetFilter: document.querySelector("#reset-filter"),
   emptyReset: document.querySelector("#empty-reset"),
 };
+
+function loadApplicationStatuses() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(applicationStorageKey) || "{}");
+    return saved && typeof saved === "object" && !Array.isArray(saved) ? saved : {};
+  } catch {
+    return {};
+  }
+}
+
+let applicationStatusesByCompany = loadApplicationStatuses();
+
+function getApplicationStatus(companyName) {
+  return applicationStatusNames[applicationStatusesByCompany[companyName]]
+    ? applicationStatusesByCompany[companyName]
+    : "not_notified";
+}
+
+function saveApplicationStatus(companyName, value) {
+  if (!applicationStatusNames[value]) return;
+  if (value === "not_notified") {
+    delete applicationStatusesByCompany[companyName];
+  } else {
+    applicationStatusesByCompany[companyName] = value;
+  }
+  try {
+    localStorage.setItem(applicationStorageKey, JSON.stringify(applicationStatusesByCompany));
+  } catch {
+    // The selection still works for this page view if storage is unavailable.
+  }
+}
 
 function safeUrl(value) {
   if (!value) return null;
@@ -67,6 +111,7 @@ function filteredCompanies() {
   const query = state.query.trim().toLowerCase();
   return allCompanies()
     .filter((item) => state.region === "全部" || item.region === state.region)
+    .filter((item) => state.applicationStatus === "all" || getApplicationStatus(item.name) === state.applicationStatus)
     .filter((item) => {
       if (!state.status) return true;
       if (state.status === "released") return ["released", "today"].includes(item.status);
@@ -74,7 +119,14 @@ function filteredCompanies() {
     })
     .filter((item) => {
       if (!query) return true;
-      return [item.name, item.region, item.evidence, item.pageTitle, item.statusLabel]
+      return [
+        item.name,
+        item.region,
+        item.evidence,
+        item.pageTitle,
+        item.statusLabel,
+        applicationStatusNames[getApplicationStatus(item.name)],
+      ]
         .filter(Boolean)
         .join(" ")
         .toLowerCase()
@@ -107,6 +159,7 @@ function createLink(label, url, className = "") {
 function renderCard(item) {
   const card = createElement("article", "company-card");
   card.dataset.status = item.status;
+  card.dataset.applicationStatus = getApplicationStatus(item.name);
 
   const head = createElement("div", "card-head");
   const titleWrap = createElement("div");
@@ -149,6 +202,24 @@ function renderCard(item) {
     if (relatedWrap.childElementCount) cardBody.push(relatedWrap);
   }
 
+  const applicationControl = createElement("label", "application-control");
+  applicationControl.append(createElement("span", "", "我的进度"));
+  const applicationSelect = createElement("select", "application-select");
+  applicationSelect.dataset.companyId = item.id;
+  applicationSelect.setAttribute("aria-label", `设置${item.name}的投递状态`);
+  for (const status of applicationStatuses) {
+    const option = createElement("option", "", status.label);
+    option.value = status.value;
+    option.selected = status.value === getApplicationStatus(item.name);
+    applicationSelect.append(option);
+  }
+  applicationSelect.addEventListener("change", (event) => {
+    saveApplicationStatus(item.name, event.target.value);
+    render();
+  });
+  applicationControl.append(applicationSelect);
+  cardBody.push(applicationControl);
+
   const actions = createElement("div", "card-actions");
   const campusUrl = safeUrl(item.campusUrl);
   if (campusUrl) {
@@ -183,6 +254,7 @@ function updateActiveFilter() {
   const labels = [];
   if (state.region !== "全部") labels.push(state.region === "全国" ? "央企" : state.region);
   if (state.status) labels.push(statusNames[state.status] || state.status);
+  if (state.applicationStatus !== "all") labels.push(applicationStatusNames[state.applicationStatus]);
   if (state.query) labels.push(`“${state.query}”`);
   elements.activeFilter.hidden = labels.length === 0;
   elements.activeFilterText.textContent = `当前筛选：${labels.join(" · ")}`;
@@ -201,9 +273,11 @@ function render() {
 function resetAll() {
   state.region = "全部";
   state.status = null;
+  state.applicationStatus = "all";
   state.query = "";
   elements.search.value = "";
   document.querySelectorAll(".filter-chip").forEach((chip) => chip.classList.toggle("is-active", chip.dataset.region === "全部"));
+  document.querySelectorAll(".application-chip").forEach((chip) => chip.classList.toggle("is-active", chip.dataset.applicationStatus === "all"));
   render();
 }
 
@@ -219,9 +293,17 @@ function bindEvents() {
     render();
   });
   document.querySelectorAll(".filter-chip").forEach((chip) => {
+    if (!chip.dataset.region) return;
     chip.addEventListener("click", () => {
       state.region = chip.dataset.region;
       document.querySelectorAll(".filter-chip").forEach((other) => other.classList.toggle("is-active", other === chip));
+      render();
+    });
+  });
+  document.querySelectorAll(".application-chip").forEach((chip) => {
+    chip.addEventListener("click", () => {
+      state.applicationStatus = chip.dataset.applicationStatus;
+      document.querySelectorAll(".application-chip").forEach((other) => other.classList.toggle("is-active", other === chip));
       render();
     });
   });
