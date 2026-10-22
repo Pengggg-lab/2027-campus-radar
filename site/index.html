@@ -64,6 +64,22 @@
         <button class="filter-chip" data-region="重庆">重庆</button>
         <button class="filter-chip" data-region="贵州">贵州</button>
       </div>
+      <div class="personal-filter">
+        <div class="personal-filter-head">
+          <strong>我的进度</strong>
+          <span>仅保存在当前设备</span>
+        </div>
+        <div class="filter-row application-filter-row" role="group" aria-label="按我的投递状态筛选">
+          <button class="filter-chip application-chip is-active" data-application-status="all">全部</button>
+          <button class="filter-chip application-chip" data-application-status="not_notified">未通知</button>
+          <button class="filter-chip application-chip" data-application-status="notified">已通知</button>
+          <button class="filter-chip application-chip" data-application-status="applied">已投递</button>
+          <button class="filter-chip application-chip" data-application-status="written">已笔试</button>
+          <button class="filter-chip application-chip" data-application-status="interview">已面试</button>
+          <button class="filter-chip application-chip" data-application-status="rejected">已拒绝</button>
+          <button class="filter-chip application-chip" data-application-status="unsuitable">不合适</button>
+        </div>
+      </div>
       <div class="active-filter" id="active-filter" hidden>
         <span id="active-filter-text"></span>
         <button id="reset-filter" type="button">清除筛选</button>
@@ -92,7 +108,7 @@
         <article><span class="status-dot not-found"></span><h3>暂未发现</h3><p>本次扫描没有找到 2027 校招文字证据，不代表企业确定尚未发布，也不代表没有子公司单独招聘。</p></article>
         <article><span class="status-dot error"></span><h3>访问异常</h3><p>官网限制、超时或证书问题导致本次无法核验。卡片会保留上次状态提示，需点官网人工确认。</p></article>
       </div>
-      <p class="privacy-note">公开页面不展示个人投递状态。网页为公开信息索引，不替代企业官方公告。</p>
+      <p class="privacy-note">个人投递进度只保存在当前浏览器，不会上传到 GitHub 或公开网页数据中。网页为公开信息索引，不替代企业官方公告。</p>
     </section>
   </main>
 
