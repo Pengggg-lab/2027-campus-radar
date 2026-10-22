@@ -157,6 +157,17 @@ main, footer { width: min(1120px, calc(100% - 32px)); margin-inline: auto; }
   cursor: pointer;
 }
 .filter-chip.is-active { border-color: var(--green); color: white; background: var(--green); }
+.personal-filter {
+  margin-top: 16px;
+  padding: 14px 16px 16px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(255, 253, 248, .68);
+}
+.personal-filter-head { display: flex; align-items: baseline; gap: 8px; }
+.personal-filter-head strong { font-size: 14px; }
+.personal-filter-head span { color: #8a8e8b; font-size: 11px; }
+.application-filter-row { flex-wrap: wrap; margin-top: 9px; overflow: visible; }
 .active-filter {
   display: flex;
   align-items: center;
@@ -217,6 +228,32 @@ main, footer { width: min(1120px, calc(100% - 32px)); margin-inline: auto; }
 .check-meta { display: flex; flex-wrap: wrap; gap: 6px 14px; color: #8a8e8b; font-size: 11px; }
 .related-links { display: flex; flex-wrap: wrap; gap: 6px; }
 .related-links a { max-width: 100%; padding: 4px 8px; overflow: hidden; border-radius: 7px; color: #45635b; background: #edf2ed; font-size: 11px; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
+.application-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 2px;
+  color: #66716e;
+  font-size: 12px;
+}
+.application-select {
+  min-width: 132px;
+  padding: 8px 30px 8px 11px;
+  border: 1px solid #cfc8b9;
+  border-radius: 10px;
+  color: var(--ink);
+  background: #fffdf8;
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+}
+.company-card[data-application-status="notified"] .application-select { border-color: #d6a816; background: #fff8dc; }
+.company-card[data-application-status="applied"] .application-select { border-color: #6a9b88; background: #edf6f1; }
+.company-card[data-application-status="written"] .application-select { border-color: #6788b2; background: #edf3fa; }
+.company-card[data-application-status="interview"] .application-select { border-color: #775eae; background: #f2edfa; }
+.company-card[data-application-status="rejected"] .application-select { border-color: #c07a71; background: #fbefed; }
+.company-card[data-application-status="unsuitable"] .application-select { border-color: #999d9a; background: #f1f1ed; }
 .card-actions { display: flex; gap: 8px; margin-top: auto; }
 .card-actions a, .card-actions button {
   display: inline-flex;
