@@ -1,9 +1,6 @@
 name: 更新招聘数据并发布网页
 
 on:
-  schedule:
-    # GitHub Actions 使用 UTC；06:00 UTC = 北京时间 14:00。
-    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
